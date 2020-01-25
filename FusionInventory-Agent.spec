@@ -7,7 +7,6 @@
 #
 %define		pdir	FusionInventory
 %define		pnam	Agent
-%include	/usr/lib/rpm/macros.perl
 Summary:	FusionInventory agent
 Name:		FusionInventory-Agent
 Version:	2.3.19
